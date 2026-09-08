@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="430" viewBox="0 0 780 430">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="28" y="30" font-family="Arial" font-size="18" font-weight="700">Leave-One-Out — turn-level importance</text>
+  <text x="28" y="52" font-family="Arial" font-size="13" fill="#555">Baseline score: 0.9859 | Bar = score drop when the turn is removed</text>
+  <text x="28" y="87" font-family="Arial" font-size="12" fill="#222">user_1: hey! saw you in the match earlier, you&#x27;re really good</text>
+  <rect x="480" y="74" width="7" height="22" fill="rgb(219,219,255)" rx="3"/>
+  <text x="497" y="87" font-family="Arial" font-size="11" fill="#333">-0.0021</text>
+  <text x="28" y="121" font-family="Arial" font-size="12" fill="#222">user_2: haha thanks, i just play a lot after school</text>
+  <rect x="480" y="108" width="21" height="22" fill="rgb(219,219,255)" rx="3"/>
+  <text x="511" y="121" font-family="Arial" font-size="11" fill="#333">-0.0062</text>
+  <text x="28" y="155" font-family="Arial" font-size="12" fill="#222">user_1: nice, how old are you if you don&#x27;t mind me asking</text>
+  <rect x="480" y="142" width="127" height="22" fill="rgb(220,169,169)" rx="3"/>
+  <text x="617" y="155" font-family="Arial" font-size="11" fill="#333">+0.0364</text>
+  <text x="28" y="189" font-family="Arial" font-size="12" fill="#222">user_2: i&#x27;m 13</text>
+  <rect x="480" y="176" width="179" height="22" fill="rgb(220,120,120)" rx="3"/>
+  <text x="669" y="189" font-family="Arial" font-size="11" fill="#333">+0.0510</text>
+  <text x="28" y="223" font-family="Arial" font-size="12" fill="#222">user_1: cool, you seem really mature for your age</text>
+  <rect x="480" y="210" width="24" height="22" fill="rgb(220,218,218)" rx="3"/>
+  <text x="514" y="223" font-family="Arial" font-size="11" fill="#333">+0.0071</text>
+  <text x="28" y="257" font-family="Arial" font-size="12" fill="#222">user_2: everyone says that lol</text>
+  <rect x="480" y="244" width="6" height="22" fill="rgb(219,219,255)" rx="3"/>
+  <text x="496" y="257" font-family="Arial" font-size="11" fill="#333">-0.0017</text>
+  <text x="28" y="291" font-family="Arial" font-size="12" fill="#222">user_1: we should talk somewhere else, this app is kind of ...</text>
+  <rect x="480" y="278" width="220" height="22" fill="rgb(220,70,70)" rx="3"/>
+  <text x="710" y="291" font-family="Arial" font-size="11" fill="#333">+0.0627</text>
+  <text x="28" y="325" font-family="Arial" font-size="12" fill="#222">user_1: do your parents check your messages?</text>
+  <rect x="480" y="312" width="150" height="22" fill="rgb(220,149,149)" rx="3"/>
+  <text x="640" y="325" font-family="Arial" font-size="11" fill="#333">+0.0430</text>
+  <text x="28" y="359" font-family="Arial" font-size="12" fill="#222">user_2: not really, why</text>
+  <rect x="480" y="346" width="14" height="22" fill="rgb(220,219,219)" rx="3"/>
+  <text x="504" y="359" font-family="Arial" font-size="11" fill="#333">+0.0041</text>
+  <text x="28" y="393" font-family="Arial" font-size="12" fill="#222">user_1: just curious. let&#x27;s keep this between us ok</text>
+  <rect x="480" y="380" width="138" height="22" fill="rgb(220,160,160)" rx="3"/>
+  <text x="628" y="393" font-family="Arial" font-size="11" fill="#333">+0.0395</text>
+</svg>

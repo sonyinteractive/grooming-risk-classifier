@@ -1,0 +1,10 @@
+user_1: hey! saw you in the match earlier, you're really good
+user_2: haha thanks, i just play a lot after school
+user_1: nice, how old are you if you don't mind me asking
+user_2: i'm 13
+user_1: cool, you seem really mature for your age
+user_2: everyone says that lol
+user_1: we should talk somewhere else, this app is kind of public
+user_1: do your parents check your messages?
+user_2: not really, why
+user_1: just curious. let's keep this between us ok
